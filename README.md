@@ -65,8 +65,4 @@ The goal of this task is to explore the **Titanic dataset** using Python librari
 
 This EDA helped uncover critical insights from the Titanic dataset and prepared it for further machine learning applications. Understanding the data through visualizations and statistics is a crucial step before model building.
 
----
-
-## 📎 Submission
-
-- GitHub Repository: [Insert your GitHub link here]
+-
